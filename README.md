@@ -10,7 +10,7 @@ LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rakesh-06a157268)
 ---
 
 ### **BRIEF SUMMARY**  
-Enthusiastic learner and aspiring engineer with a focus on Electronics and Communication, specializing in IoT, Embedded Systems, Machine Learning, and Software Development. I aim to apply my knowledge and skills to solve real-world problems, contributing to innovative projects and increasing productivity.
+A dedicated B.Tech student in Electronics and Communication Engineering with a well-rounded skill set in software development, embedded systems, and data science. Experienced in working with IoT, machine learning, and web development through hands-on projects and internships. Proficient in programming languages such as Python, C, and MATLAB, with a strong understanding of signal processing, embedded system design, and full-stack development. Passionate about applying both hardware and software knowledge to create innovative solutions, enhance product performance, and contribute to technology-driven teams. Eager to explore opportunities where I can leverage my technical and problem-solving abilities to drive meaningful impact.
 
 ---
 
